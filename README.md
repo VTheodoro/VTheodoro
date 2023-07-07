@@ -1,4 +1,4 @@
-# 👋 Victor Gabriel Ferreira Theodoro
+# 👋 Victor Theodoro
 💻 Desenvolvedor de Sistemas | 🎥 Editor de Vídeo | 🎨 Ilustrador Freelancer
 
 ## 📚 Formação
