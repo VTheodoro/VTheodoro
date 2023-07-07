@@ -1,26 +1,26 @@
 # 👋 Victor Theodoro
-💻 Desenvolvedor de Sistemas | 🎥 Editor de Vídeo | 🎨 Ilustrador Freelancer
+💻 Systems Developer | 🎥 Video Editor | 🎨 Freelance Illustrator
 
-## 📚 Formação
-- **ETEC Registro** | Curso Técnico em Desenvolvimento de Sistemas
-- **Danki.Code** | Curso de Desenvolvimento e Programação de Games 
+## 📚 Training
+- **ETEC Registro** | Technical Course in Systems Development
+- **Danki.Code** | Game development and programming course
 
-## 💡 Habilidades Técnicas
-- 💻 Desenvolvimento Web: HTML, CSS, JavaScript
-- 👨‍💻 Linguagens de Programação: C#, Java, GML
-- 🎥 Edição de Vídeo: Adobe Premiere Pro, Photoshop, GIMP
-- 🎨 Ilustração Digital: Adobe Illustrator
-- 📊 Preenchimento de Planilhas | Controle de Informações Precisas
-- 💡 Resolução de Problemas | Aprendizado Rápido | Trabalho em Equipe
+## 💡 Technical Skills
+- 💻 Web Development: HTML, CSS, JavaScript
+- 👨‍💻 Programming Languages: C#, Java, GML
+- 🎥 Video Editing: Adobe Premiere Pro, Photoshop, GIMP
+- 🎨 Digital Illustration: Adobe Illustrator
+- 📊 Spreadsheet Filling | Precise Information Control
+- 💡 Troubleshooting | Fast Learning | Team work
 
-## 🚀 Experiência
-- 👨‍💻 Editor de Vídeo e Ilustrador Freelancer
-  - 🎬 Edição de vídeos para canais do YouTube utilizando Adobe Premiere Pro, Photoshop e GIMP.
-  - 🎨 Criação de ilustrações digitais para uso em vídeos.
-  - 🖼️ Produção de miniaturas atraentes para aumentar o engajamento do público.
+## 🚀 Experience
+- 👨‍💻 Freelance Video Editor & Illustrator
+   - 🎬 Video editing for YouTube channels using Adobe Premiere Pro, Photoshop and GIMP.
+   - 🎨 Creation of digital illustrations for use in videos.
+   - 🖼️ Production of attractive thumbnails to increase audience engagement.
 
-- ⚖️ Balanceiro na Jorcal Engenharia e Construções S/A
-  - ⚖️ Controle de entrada e saída de caminhões, preenchimento de planilhas e controle de estoque.
+- ⚖️ "Balanceiro" at Jorcal Engenharia e Construções S/A
+   - ⚖️ Truck entry and exit control, spreadsheet filling and stock control.
 
 ## 🙋 Sobre Mim
-Sou um estudante apaixonado por tecnologia e inovação. Atualmente, estou estudando Desenvolvimento de Sistemas na ETEC Registro e aprimorando minhas habilidades em desenvolvimento web, linguagens de programação e edição de vídeo. Sou uma pessoa dedicada, criativa e estou sempre em busca de novos desafios na área de tecnologia.
+I'm a Brazilian student passionate about technology and innovation. I am currently studying Systems Development at ETEC Registro and improving my skills in web development, programming languages and video editing. I am a dedicated, creative person and I am always looking for new challenges in the technology field.
