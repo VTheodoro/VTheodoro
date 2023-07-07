@@ -23,4 +23,4 @@
   - ⚖️ Controle de entrada e saída de caminhões, preenchimento de planilhas e controle de estoque.
 
 ## 🙋 Sobre Mim
-Sou um profissional apaixonado por tecnologia e inovação, com experiência em edição de vídeos, criação de ilustrações e controle de informações. Atualmente, estou estudando Desenvolvimento de Sistemas na ETEC Registro e aprimorando minhas habilidades em desenvolvimento web, linguagens de programação e edição de vídeo. Sou uma pessoa dedicada, criativa e estou sempre em busca de novos desafios na área de tecnologia.
+Sou um estudante apaixonado por tecnologia e inovação. Atualmente, estou estudando Desenvolvimento de Sistemas na ETEC Registro e aprimorando minhas habilidades em desenvolvimento web, linguagens de programação e edição de vídeo. Sou uma pessoa dedicada, criativa e estou sempre em busca de novos desafios na área de tecnologia.
