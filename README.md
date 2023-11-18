@@ -21,6 +21,3 @@
 
 - ⚖️ "Balanceiro" at Jorcal Engenharia e Construções S/A
    - ⚖️ Truck entry and exit control, spreadsheet filling and stock control.
-
-## 🙋 Sobre Mim
-I'm a Brazilian student passionate about technology and innovation. I am currently studying Systems Development at ETEC Registro and improving my skills in web development, programming languages and video editing. I am a dedicated, creative person and I am always looking for new challenges in the technology field.
