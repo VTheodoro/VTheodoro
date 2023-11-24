@@ -6,7 +6,7 @@
 - **Danki.Code** | Game development and programming course
 
 ## 💡 Technical Skills
-- 💻 Web Development: HTML, CSS, JavaScript
+- 💻 Web Development: HTML, CSS, JavaScriptl, XML
 - 👨‍💻 Programming Languages: C#, Java, GML
 - 🎥 Video Editing: Adobe Premiere Pro, Photoshop, GIMP
 - 🎨 Digital Illustration: Adobe Illustrator
