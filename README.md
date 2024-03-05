@@ -1,4 +1,4 @@
-<img src="Logo_VT.png" alt="Logo de Victor Theodoro" width="100"> <h1 align="center">Hi Devs, I'm Victor Theodoro! 👋</h1>
+ <h1 <img src="Logo_VT.png" alt="Logo de Victor Theodoro" width="100"> align="center">Hi Devs, I'm Victor Theodoro! 👋</h1>
 <h3 align="center">👨‍💻 A General Technology Professional From Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vtheodoro&label=Profile%20views&color=0e75b6&style=flat" alt="vtheodoro" /> </p>
