@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F0F8FF&height=120&section=header"/>
 
-<h1 align="center">Hi Devs, I'm Victor Theodoro!<img src="Logo_VT.png" alt="Logo de Victor Theodoro" width="100"></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3500&pause=1000&random=false&width=435&lines=Hi+Devs%2C+I'm+Victor+Theodoro!)](https://git.io/typing-svg)
 <h3 align="center">👨‍💻 A General Technology Professional From Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vtheodoro&label=Profile%20views&color=0e75b6&style=flat" alt="vtheodoro" /> </p>
