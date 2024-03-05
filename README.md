@@ -1,7 +1,8 @@
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="Logo_VT.png" alt="Logo de Victor Theodoro" width="100">
-    <h1 style="margin-top: auto;">Hi Devs, I'm Victor Theodoro!</h1>
+    <img src="Logo_VT.png" alt="Logo de Victor Theodoro" width="100" style="margin-right: 10px;">
+    <h1 style="margin-top: auto; margin-bottom: auto;">Hi Devs, I'm Victor Theodoro!</h1>
 </div>
+
 <h3 align="center">👨‍💻 A General Technology Professional From Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vtheodoro&label=Profile%20views&color=0e75b6&style=flat" alt="vtheodoro" /> </p>
