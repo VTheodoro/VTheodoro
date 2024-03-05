@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F0F8FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&duration=3500&pause=1000&random=false&width=700&lines=Hi+Devs%2C+I'm+Victor+Theodoro!)](https://git.io/typing-svg)
 <h3 align="center">👨‍💻 A General Technology Professional From Brazil.</h3>
