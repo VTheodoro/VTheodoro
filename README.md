@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F0F8FF&height=120&section=header"/>
+
 <h1 align="center">Hi Devs, I'm Victor Theodoro!<img src="Logo_VT.png" alt="Logo de Victor Theodoro" width="100"></h1>
 <h3 align="center">👨‍💻 A General Technology Professional From Brazil.</h3>
 
