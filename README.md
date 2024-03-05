@@ -1,6 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="Logo_VT.png" alt="Logo de Victor Theodoro" width="100" style="margin-right: 10px;">
-    <h1 style="margin-top: auto; margin-bottom: auto;">Hi Devs, I'm Victor Theodoro!</h1>
+    <h1 style="margin-top: auto; margin-bottom: auto;"> <img src="Logo_VT.png" alt="Logo de Victor Theodoro" width="100" style="margin-right: 10px;">Hi Devs, I'm Victor Theodoro!</h1>
 </div>
 
 <h3 align="center">👨‍💻 A General Technology Professional From Brazil.</h3>
