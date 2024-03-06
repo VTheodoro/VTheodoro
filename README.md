@@ -12,19 +12,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VTheodoro&bg_color=000129&color=ffffff&line=007b94&point=91ff7a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-<br>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/victor-theodoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-theodoro" height="30" width="40" /></a>
-<a href="https://fb.com/victor theodoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victor theodoro" height="30" width="40" /></a>
-<a href="https://instagram.com/theo.vec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theo.vec" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/victor theodoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="victor theodoro" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/ErVzCAyRDS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ErVzCAyRDS" height="30" width="40" /></a>
-<a href="/https://linktr.ee/theodorokk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://linktr.ee/theodorokk" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/victor-theodoro" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="victor-theodoro" width="80" /></a><a href="https://instagram.com/theo.vec" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="theo.vec" width="80" /></a><a href="https://www.tiktok.com/@theodorokk" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="80" /></a><a href="https://discord.gg/https://discord.gg/ErVzCAyRDS" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="https://discord.gg/ErVzCAyRDS" width="80" /></a><a href="/https://linktr.ee/theodorokk" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" alt="https://linktr.ee/theodorokk" width="80" /></a>
 </p>
 
 
