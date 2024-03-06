@@ -18,13 +18,26 @@
 <a href="https://linkedin.com/in/victor-theodoro" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="victor-theodoro" width="80" /></a><a href="https://instagram.com/theo.vec" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="theo.vec" width="80" /></a><a href="https://www.tiktok.com/@theodorokk" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="80" /></a><a href="https://discord.gg/https://discord.gg/ErVzCAyRDS" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="https://discord.gg/ErVzCAyRDS" width="80" /></a><a href="https://linktr.ee/theodorokk" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="65" /></a>
 </p>
 
-<h1>Sobre mim:</h1>
-- 📚 Estudando Atualmente:
-Desenvolvimento de Sistemas(Junto ao Ensino Médio) e Desenvolvimento de Games Fullstack. <br>
-- 🌐 Experiências:
-🌐 Technology Enthusiast | 💻 Systems Developer | 👨‍💻 Programmer | 🖨️ 3D Printing Specialist |⚡ Electrical & Electronics Specialist | 🎥 Profissonal do AudioVisual
-
-<img  align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<h1>About Me:</h1>
+    <ul>
+        <li>
+            <strong>📚 Currently Pursuing:</strong>
+            <ul>
+                <li>🖥️ Systems Development (In tandem with High School)</li>
+                <li>🎮 Fullstack Game Development</li>
+            </ul>
+        </li>
+        <li>
+            <strong>🌐 Main Experiences:</strong>
+            <ul>
+                <li>🌐 Technology Enthusiast</li>
+                <li>👨‍💻 Programmer</li>
+                <li>🖨️ 3D Printing Specialist</li>
+                <li>⚡ Electrical & Electronics Enthusiast</li>
+                <li>🎥 Audiovisual Enthusiast</li>
+            </ul>
+        </li>
+    </ul>
 
 <div align="left">  
 <h3>Currently Learning and Diving Into...</h3>
@@ -33,6 +46,8 @@ Desenvolvimento de Sistemas(Junto ao Ensino Médio) e Desenvolvimento de Games F
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" />  
+
+<img  align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <h3>Experience With...</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60"/>
