@@ -2,7 +2,7 @@
 
 <img  align="right" alt="coding" width="170" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=2000&pause=4000&center=false&vCenter=false&random=false&width=500&height=100&lines=Hi+Devs%2C+I'm+Victor+Theodoro!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=2000&pause=4000&center=false&vCenter=false&random=false&width=550&height=100&lines=Hi+Devs%2C+I'm+Victor+Theodoro!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=20&duration=3500&pause=1000&color=261EDC&center=false&vCenter=false&random=false&width=500&height=70&separator=%3C&lines=A+Systems+Development+student;%3CA+Born+Professional+in+Technology;%3CI+Live+in+Brazil;%3CWelcome+to+my+GitHub;)](https://git.io/typing-svg)
 
 <div align="center">  
