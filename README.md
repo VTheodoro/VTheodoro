@@ -75,7 +75,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" width="60"/>
 
 <h4>Also Using...</h4>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40"/>
