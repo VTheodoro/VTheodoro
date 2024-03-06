@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=20&duration=3500&pause=1000&color=261EDC&center=false&vCenter=false&random=false&width=500&height=70&separator=%3C&lines=A+Systems+Development+student;%3CA+Born+Professional+in+Technology;%3CI+Live+in+Brazil;%3CWelcome+to+my+GitHub;)](https://git.io/typing-svg)
 
 <div align="center">  
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTheodoro&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=36BCF7FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VTheodoro&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VTheodoro&bg_color=000129&color=ffffff&line=007b94&point=91ff7a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
