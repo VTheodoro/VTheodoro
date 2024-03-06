@@ -22,10 +22,10 @@
 <h1>About Me:</h1>
     <h3>Currently as CEO of Print 3D - 3d Printing</h3>
     <ul>
+         <a href="https://www.instagram.com/printh_3d/"><img align="right" alt="coding" width="200" src="PNG Logo Printh 3D.png"> </a>
         <li>
             <strong>📚 Currently Pursuing:</strong>
             <ul>
-                                                        <img align="right" alt="coding" width="200" src="PNG Logo Printh 3D.png">
                 <li>🖥️ Systems Development (In tandem with High School)</li>
                 <li>🎮 Fullstack Game Development</li>
             </ul>
