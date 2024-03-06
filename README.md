@@ -39,6 +39,10 @@
         </li>
     </ul>
 
+    
+<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 <div align="left">  
 <h3>Currently Learning and Diving Into...</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="60" />
