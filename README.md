@@ -12,8 +12,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VTheodoro&bg_color=000129&color=ffffff&line=007b94&point=91ff7a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
 <p align="center">
 <a href="https://linkedin.com/in/victor-theodoro" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="victor-theodoro" width="80" /></a><a href="https://instagram.com/theo.vec" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="theo.vec" width="80" /></a><a href="https://www.tiktok.com/@theodorokk" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="80" /></a><a href="https://discord.gg/https://discord.gg/ErVzCAyRDS" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="https://discord.gg/ErVzCAyRDS" width="80" /></a><a href="https://linktr.ee/theodorokk" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="65" /></a>
 </p>
@@ -42,8 +40,6 @@
         </li>
     </ul>
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
     
 <br><br>
 
