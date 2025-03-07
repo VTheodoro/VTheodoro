@@ -45,6 +45,7 @@
 <div align="left">  
 <h3>Currently Learning and Diving Into...</h3>
 <img src="https://quantumzeitgeist.com/wp-content/uploads/pythoned.png" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="60" />
 <img src="https://repository-images.githubusercontent.com/596892/cc2c69ec-9251-4b33-8283-b86a8659c9cb" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60"/>
@@ -63,6 +64,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="75"/>
+<img src="https://support.scooledu.org/.api2/api/v1/communities/14665887/previews/thumbnails/74a1c2df-e5e1-4408-b58f-12e278c4582a?width=680&height=680&crop=False" width="65"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="60"/>
 <img src="https://applet3d.com/wp-content/uploads/2023/01/fusion-360-logo.png" width="65"/>
 
