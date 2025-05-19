@@ -1,0 +1,5 @@
+name: GitHub-Profile-3D-Contrib
+
+# Permite execução manual via UI, CLI ou API
+on:
+  workflow_dispatch:
