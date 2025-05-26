@@ -6,11 +6,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=20&duration=3500&pause=1000&color=261EDC&center=false&vCenter=false&random=false&width=500&height=70&separator=%3C&lines=A+Systems+Development+student;%3CA+Born+Professional+in+Technology;%3CI+Live+in+Brazil;%3CWelcome+to+my+GitHub;)](https://git.io/typing-svg)
 
 <div align="center">  
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VTheodoro&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=36BCF7FF&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VTheodoro&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vftheodoro&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=36BCF7FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vftheodoro&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VTheodoro&bg_color=000129&color=ffffff&line=007b94&point=91ff7a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vftheodoro&bg_color=000129&color=ffffff&line=007b94&point=91ff7a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 <a href="https://linkedin.com/in/victor-theodoro" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="victor-theodoro" width="80" /></a><a href="https://instagram.com/theo.vec" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="theo.vec" width="80" /></a><a href="https://linktr.ee/theodorokk" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="65" /></a>
